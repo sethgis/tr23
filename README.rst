@@ -22,6 +22,10 @@ Installation
 Install $project by running:
 
     install project
+    
+    .. image:: https://github.com/sethgis/tr23/blob/6f94f9155e83bf5d8bae8ccd3aa173d41e3dd8f6/samburu_11.JPG
+  :width: 400
+  :alt: Alternative text
 
 Contribute
 ----------
